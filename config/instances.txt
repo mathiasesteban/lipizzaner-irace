@@ -1,1 +1,1 @@
-no_instance_distinction_for_lipizzaner
+single_instance
